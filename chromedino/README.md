@@ -12,5 +12,5 @@ chrome://dino
 javascript:(function () { var script = document.createElement('script'); script.src = "//cdn.jsdelivr.net/gh/usernob/justrepo/chromedino/main.js";  document.body.appendChild(script); script.onload = function () { autoplay(); }})();
 ```
 
-- the dino will play it slef
+- the dino will play it self
 
